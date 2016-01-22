@@ -1,0 +1,23 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahadurfarooq/NodeInAction.git"
+  },
+  "author": "BHT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahadurfarooq/NodeInAction/issues"
+  },
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  },
+  "homepage": "https://github.com/bahadurfarooq/NodeInAction#readme"
+}
